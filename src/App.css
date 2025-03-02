@@ -13,5 +13,7 @@
 body{
   margin: 0;
   display: flex;
+  text-align: center;
+  place-items: center;
   
 }
