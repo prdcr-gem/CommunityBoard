@@ -1,0 +1,38 @@
+.club-image{
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.club-card{
+    background: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 0 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.club-card:hover{
+    transform: scale(1.05);
+}
+
+.club-button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.club-button:hover{
+    background-color: darkred;
+   
+}
