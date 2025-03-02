@@ -6,7 +6,9 @@ const SchoolOrgs = () => {
         <div className= "SchoolOrgs">
             <h1> Favorite School Organizations: Affliated & Non-Affliated</h1>
 
-        
+
         </div>
     )
 }
+
+export default SchoolOrgs;
