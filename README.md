@@ -4,7 +4,7 @@ Submitted by: Geraldine Bongato
 
 This web app: **This app displays my TOP 11 favorite school-affliated and non-school-affliated organization that I am currently involved in to pursue my passion and interest in art and coding!**
 
-Time spent: 14 hours spent in total
+Time spent: 17 hours spent in total
 
 ## Required Features
 
