@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/prdcr-gem/CommunityBoard/blob/main/proj1.gif?raw=true' 
+<img src='https://github.com/prdcr-gem/CommunityBoard/blob/main/src/gif/proj1.2.gif?raw=true' 
      title='Website Walkthrough' width='' alt=' Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
