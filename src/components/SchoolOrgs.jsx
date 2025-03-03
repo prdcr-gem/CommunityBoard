@@ -7,7 +7,8 @@ const SchoolOrgs = () => {
 
     return (
         <div className= "school-orgs">
-            <h1> Top Favorite School Organizations: Art, Cybersecurity, and Women in Tech</h1>
+            <h1> Top Favorite School-Affliated and Non-School Affliated Organizations</h1>
+            <h2> Incorporating Art, Coding, and Cybersecurity</h2>
             <div className="club-container">
                 <ClubCard orgName ="WiCyS UCF" 
                           desc="Women in Cybersecurity at UCF"
