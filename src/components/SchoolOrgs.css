@@ -1,16 +1,11 @@
 .school-orgs{
     text-align: center;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
-}
 
-.club-container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    flex-wrap: wrap;
-    justify-content: center;
-    gap:20px;
-    margin-top: 20px;
 }
 
 .club-card{
