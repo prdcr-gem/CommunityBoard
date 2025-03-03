@@ -10,7 +10,7 @@
 
 .club-container{
     display: grid;
-    grid-template-columns: repeat(3, minmax(250px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     justify-content: center;
     margin: 0 auto;
@@ -20,7 +20,7 @@
 }
 
 .club-card{
-    background: white;
+    background: rgb(159, 189, 232);
     border-radius: 8px;
     padding: 16px;
     margin: 10px;
@@ -31,6 +31,8 @@
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    width: 250px;
+    height: 300px;
     
 
 }

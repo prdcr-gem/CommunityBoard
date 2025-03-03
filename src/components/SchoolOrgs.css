@@ -11,3 +11,10 @@
 .club-card{
     max-width: 300px;
 }
+
+.footer{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 10px;
+}

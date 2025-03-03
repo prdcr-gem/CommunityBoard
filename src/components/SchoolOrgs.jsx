@@ -18,7 +18,7 @@ const SchoolOrgs = () => {
                           image ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVVi0rQpYdCUHnXoA1NsytxjxtXQ8XdFmAjQ&s"
                           link ="https://hackucf.org/" />
                 <ClubCard orgName ="CodePath" 
-                          desc ="A non-profit organization helps underrespresented students" 
+                          desc ="A non-profit organization helps underrepresented students" 
                           image ="https://mma.prnewswire.com/media/1800392/codepath_1x1_solid_dark_Logo.jpg?p=publish" 
                           link ="https://www.codepath.org/"/>
                 <ClubCard orgName ="Design & Code Club" 
@@ -54,7 +54,13 @@ const SchoolOrgs = () => {
                           image ="https://se-images.campuslabs.com/clink/images/62c4513a-992f-481b-bec2-394ea76b6f11cabcbce2-f5e0-44f8-8fa9-e796ad78db60.jpg?preset=med-sq"
                           link ="https://www.instagram.com/weecsucf/" />
             </div>
-            
+            {/* end of club-container */}
+
+            <div className ="footer">
+                <p>&copy; 2025 Geraldine Bongato. All rights reserved.</p>
+
+            </div>
+            {/* end of footer */}
 
 
             {/* <td>HACK UCF</td>
@@ -70,7 +76,9 @@ const SchoolOrgs = () => {
              */}
 
             
-        </div>
+        </div> 
+        // end of school-orgs
+        
     )
 }
 
