@@ -11,8 +11,8 @@ Time spent: 14 hours spent in total
 
 The following **required** functionality is completed:
 
-- ✅ **There is a unique theme for events or resources relevant to a specific community**
-- ✅ **At least 10 unique resources or events are displayed in a responsive card format**
+- [x]**There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='![proj1](https://github.com/user-attachments/assets/337f9147-3b69-4bcb-8862-4dcd80dda057)' title='Website Walkthrough' width='' alt=' Walkthrough' />
+<img src='![proj1](https://github.com/user-attachments/assets/66312843-ef75-473e-95c6-ab677a8f7340)' 
+     title='Website Walkthrough' width='' alt=' Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
