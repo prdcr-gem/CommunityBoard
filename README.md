@@ -40,6 +40,8 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
+Challenges I encountered were applying my learning from the lecture with props and newState as well as refreshing my knowledge from WEB101.
+
 ## License
 
 
