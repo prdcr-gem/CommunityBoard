@@ -3,16 +3,16 @@
 
 Submitted by: Geraldine Bongato
 
-This web app: **insert description**
+This web app: **This apps display my top 11 favorite school clubs that I am currently involved in to pursue my passion and interest**
 
-Time spent: 2 hours spent in total
+Time spent: 14 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- ✅ **There is a unique theme for events or resources relevant to a specific community**
+- ✅ **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
@@ -27,10 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![proj1](https://github.com/user-attachments/assets/337f9147-3b69-4bcb-8862-4dcd80dda057)' title='Website Walkthrough' width='' alt=' Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -41,6 +41,7 @@ GIF created with ...
 Describe any challenges encountered while building the app.
 
 ## License
+
 
     Copyright 2025 Geraldine Bongato
 
