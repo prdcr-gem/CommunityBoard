@@ -8,7 +8,6 @@ const ClubCard = ({orgName, image, desc, link}) => {
             <img src={image} alt={orgName} className="club-image" />
             <h2>{orgName}</h2>
             <p>{desc}</p>
-            <button className="club-button"> Learn More </button>
 
             {/* _blank prompts to open the link in a new tab */}
             <a href={link} target="_blank" rel="noopener noreferrer" />
