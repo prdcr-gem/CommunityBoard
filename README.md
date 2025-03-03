@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Development Project 1 - CommunityBoard
 
 Submitted by: Geraldine Bongato
